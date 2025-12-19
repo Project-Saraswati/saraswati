@@ -74,7 +74,7 @@ Planned future work includes:
 - Documentation of pricing fields and billing logic  
 - Processed datasets designed for reuse by developers and researchers  
 
-As each piece is added, this README will be updated to reflect reality—not aspiration.
+As each piece is added, this README will be updated
 
 
 
