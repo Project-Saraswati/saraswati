@@ -1,5 +1,7 @@
 # Project Saraswati
-_Laying the groundwork for accessible healthcare pricing data._
+We’re doing this because healthcare pricing is still largely hidden.
+
+Hospitals are required to publish pricing files, but in practice these files are scattered, inconsistent, and difficult to access in one place. That makes it hard for patients, researchers, and builders to even begin understanding what care might cost.
 
 ## What This Project Is
 
