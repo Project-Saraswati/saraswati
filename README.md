@@ -40,7 +40,6 @@ This repository exists to ensure the raw data is:
 - Inspectable  
 - Ready for downstream processing  
 
-Good transparency starts with good foundations.
 
 ---
 ### What You Can Help With Right Now
@@ -58,8 +57,9 @@ Uploading files requires:
 To keep credentials secure, AWS access is **not granted automatically**.
 
 If you’d like to contribute:
-1. Reach out via the project’s Slack workspace (or contact listed in this repo)
-2. We’ll share:
+1. Reach out via the project’s [Slack workspace](https://project-saraswati.slack.com)
+2. Checkout the [Project Saraswati Drive Folder](https://drive.google.com/drive/folders/1rlbjxWxc8WDrooXNymqsWvpW9zkoxYvo?usp=sharing)
+3. We’ll share:
    - Upload instructions
    - The current hospital list
    - Temporary or scoped AWS credentials, as appropriate
